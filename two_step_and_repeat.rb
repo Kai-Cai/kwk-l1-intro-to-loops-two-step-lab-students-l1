@@ -25,12 +25,16 @@ end
 
 a_few_more_steps
 
+
 def how_many_steps?
   steps = 0
   while steps < 4
   steps += 1
 end
 end
+
+how_many_steps?
+
 
 def break_dance
   # Write a solution that uses the same code as how_many_steps?, but breaks the
