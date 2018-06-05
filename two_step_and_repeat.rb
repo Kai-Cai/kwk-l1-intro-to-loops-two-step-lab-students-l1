@@ -9,8 +9,6 @@ def first_steps
   sleep(1)
 end  
 
-first_steps
-
 
 def a_few_more_steps
   puts "Right foot steps right and back"
@@ -22,8 +20,6 @@ def a_few_more_steps
   puts "turn"
   sleep (1)
 end
-
-a_few_more_steps
 
 
 def how_many_steps?
