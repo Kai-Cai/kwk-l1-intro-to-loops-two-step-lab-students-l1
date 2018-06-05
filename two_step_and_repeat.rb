@@ -29,6 +29,8 @@ a_few_more_steps
 def how_many_steps?
   steps = 0
   while steps < 4
+  first_steps
+  a_few_more_steps
   steps += 1
 end
 end
