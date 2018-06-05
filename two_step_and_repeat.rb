@@ -28,8 +28,8 @@ def how_many_steps?
   first_steps
   a_few_more_steps
   steps += 1
-  sleep (0.5)
 end
+  sleep (0.5)
 end
 
 how_many_steps?
