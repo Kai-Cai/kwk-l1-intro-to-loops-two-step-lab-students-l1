@@ -26,7 +26,10 @@ end
 a_few_more_steps
 
 def how_many_steps?
-  # Write a loop that fulfills all criteria from Part 3 of the README.md
+  steps = 0
+  while steps < 4
+  steps += 1
+end
 end
 
 def break_dance
