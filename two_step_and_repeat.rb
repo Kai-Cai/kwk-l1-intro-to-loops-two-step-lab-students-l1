@@ -28,12 +28,12 @@ def how_many_steps?
   first_steps
   a_few_more_steps
   steps += 1
-end
   if steps %2 == 0 
     puts "left"
   else steps %2 != 0 
     puts "right"
   sleep (0.5)
+end
 end
 
 how_many_steps?
